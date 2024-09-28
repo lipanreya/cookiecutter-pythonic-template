@@ -2,7 +2,7 @@
 name = "cookiecutter-pythonic-project"
 version = "0.5.0"
 description = "cookiecutter for pythonic project"
-authors = ["huagang <huagang517@126.com>"]
+authors = ["lipanre <lipanre@qq.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
